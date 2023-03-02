@@ -1,0 +1,15 @@
+{
+  "name": "aplicacao_financeira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Edenir Vidal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
